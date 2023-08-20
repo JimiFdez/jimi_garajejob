@@ -1,5 +1,5 @@
 # jimi_garajejob
-**Mi discord:**https://discord.gg/jRExhKV7UA
+**Mi discord:** https://discord.gg/jRExhKV7UA
 
 # Información del script
 Este script es un garaje para los trabajos o bandas etc que tu desees, cuando sacas un vehículo tiene la gasolina automaticamente al 100%
