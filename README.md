@@ -9,8 +9,11 @@ Este script esta modificado por mi para que tenga mas facilidad al momento de ed
 # ¿Como instalarlo?
 
 Descarga y extrae el archivo zip.
+
 Renombra la carpeta de jimi_garajejob-main a jimi_garajejob.
+
 Pon la carpeta jimi_garajejob en tu carpeta de resources.
+
 Luego en tu server.cfg pon esto:
 
 start jimi_garajejob
